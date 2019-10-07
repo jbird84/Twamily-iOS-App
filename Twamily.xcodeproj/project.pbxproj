@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		DA9FE2B3234A92640011303A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9FE2B2234A92640011303A /* AppDelegate.swift */; };
 		DA9FE2B5234A92640011303A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9FE2B4234A92640011303A /* SceneDelegate.swift */; };
-		DA9FE2B7234A92640011303A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9FE2B6234A92640011303A /* ViewController.swift */; };
+		DA9FE2B7234A92640011303A /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9FE2B6234A92640011303A /* RegisterVC.swift */; };
 		DA9FE2BA234A92640011303A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA9FE2B8234A92640011303A /* Main.storyboard */; };
 		DA9FE2BC234A926B0011303A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA9FE2BB234A926B0011303A /* Assets.xcassets */; };
 		DA9FE2BF234A926B0011303A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA9FE2BD234A926B0011303A /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		DA9FE2AF234A92640011303A /* Twamily.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Twamily.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA9FE2B2234A92640011303A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DA9FE2B4234A92640011303A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DA9FE2B6234A92640011303A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		DA9FE2B6234A92640011303A /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
 		DA9FE2B9234A92640011303A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DA9FE2BB234A926B0011303A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA9FE2BE234A926B0011303A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				DA9FE2B2234A92640011303A /* AppDelegate.swift */,
 				DA9FE2B4234A92640011303A /* SceneDelegate.swift */,
-				DA9FE2B6234A92640011303A /* ViewController.swift */,
+				DA9FE2B6234A92640011303A /* RegisterVC.swift */,
 				DA9FE2B8234A92640011303A /* Main.storyboard */,
 				DA9FE2BB234A926B0011303A /* Assets.xcassets */,
 				DA9FE2BD234A926B0011303A /* LaunchScreen.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA9FE2B7234A92640011303A /* ViewController.swift in Sources */,
+				DA9FE2B7234A92640011303A /* RegisterVC.swift in Sources */,
 				DA9FE2B3234A92640011303A /* AppDelegate.swift in Sources */,
 				DA9FE2B5234A92640011303A /* SceneDelegate.swift in Sources */,
 			);
